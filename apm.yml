@@ -1,0 +1,14 @@
+# apm.yml
+name: agoncal-apm-vintagestore
+version: 1.0.0
+description: Contoso agent standards for the Vintage Store application
+author: agoncal
+# Harnesses to deploy to (comment out to auto-detect from the repo):
+targets:
+  - copilot
+  - claude
+dependencies:
+  apm: []
+  mcp: []
+includes: auto
+scripts: {}
