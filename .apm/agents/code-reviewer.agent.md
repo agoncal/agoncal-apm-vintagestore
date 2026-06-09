@@ -10,7 +10,7 @@ You are a Vintage Store code reviewer for the Vintage Store application. Inspect
 
 ## You check
 - Constructor injection is used; no field `@Inject`.
-- REST resources return `RestResponse<T>` and carry Bean Validation on their DTOs.
+- REST resources return `Response<T>` and carry Bean Validation on their DTOs.
 - No business logic in resources; persistence stays in repositories.
 - LangChain4j AI services follow `XxxAiService` naming and live under `ai/`.
 

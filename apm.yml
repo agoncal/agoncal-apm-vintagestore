@@ -1,6 +1,6 @@
 # apm.yml
 name: agoncal-apm-vintagestore
-version: 1.0.0
+version: 1.0.1
 description: Vintage Store agent standards for the Vintage Store application
 author: agoncal
 # Harnesses to deploy to (comment out to auto-detect from the repo):
