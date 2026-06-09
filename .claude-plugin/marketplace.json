@@ -1,0 +1,20 @@
+{
+  "name": "agoncal-apm-vintagestore",
+  "owner": {
+    "name": "agoncal",
+    "url": "https://github.com/agoncal"
+  },
+  "plugins": [
+    {
+      "name": "vintagestore-standards",
+      "description": "Contoso agent standards for the Vintage Store app",
+      "version": "1.0.0",
+      "source": {
+        "source": "github",
+        "repo": "agoncal/agoncal-apm-vintagestore",
+        "ref": "v1.0.0",
+        "sha": "650f72ecd962190ed2b1960ee201c8f4fcefc804"
+      }
+    }
+  ]
+}
