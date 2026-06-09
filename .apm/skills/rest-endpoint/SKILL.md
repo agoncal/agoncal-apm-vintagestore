@@ -1,6 +1,6 @@
 ---
 name: rest-endpoint
-description: Use when adding or changing a Quarkus REST endpoint in the Vintage Store app. Scaffolds the resource, DTO, and test following Contoso conventions.
+description: Use when adding or changing a Quarkus REST endpoint in the Vintage Store app. Scaffolds the resource, DTO, and test following Vintage Store conventions.
 ---
 
 # Quarkus REST endpoint
